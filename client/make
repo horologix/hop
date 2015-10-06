@@ -1,0 +1,1 @@
+browserify app.js | uglifyjs > ../../public/hop/main.js
